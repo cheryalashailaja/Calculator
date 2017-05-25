@@ -13,12 +13,12 @@ public class relational2
 	a=s.nextInt();
 	System.out.println("enter second number");
 	b=s.nextInt();
-	System.out.println("equal"+(a==b));
-	System.out.println("notequal"+(a!=b));
-	System.out.println("greater"+(a>b));
-	System.out.println("lessthen"+(a<b));
-	System.out.println("greaterthan equal"+(a>=b));
-	System.out.println("greaterthan equal"+(a<=b));
+	System.out.println("a is equal b="+(a==b));
+	System.out.println("a is notequal b="+(a!=b));
+	System.out.println("a is greater b="+(a>b));
+	System.out.println("a is lessthen b="+(a<b));
+	System.out.println("a is greaterthan equal b="+(a>=b));
+	System.out.println("a is lessthan equal b="+(a<=b));
 	
 }
 	
